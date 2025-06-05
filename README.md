@@ -13,7 +13,7 @@ Passionate about building interactive websites and games with modern technologie
 - 🎮 I build games using Unity and C#  
 - 🐍 I write scripts and automate tasks with Python  
 - 🚀 I’m always learning and exploring new tech  
-- 📫 Reach me at: [tostt12x@gmail.com]
+- 📫 Reach me at: [tosttek12x@gmail.com]
 
 ---
 
@@ -38,12 +38,7 @@ Passionate about building interactive websites and games with modern technologie
 
 ---
 
-## 🧩 Featured Projects
 
-- 🔹 [Project Name](#): A simple JavaScript game 🎮  
-- 🔹 [Project Name](#): A responsive web page built with HTML, CSS, and JS 🌐  
-
----
 
 ## 🤝 Let's Connect
 
