@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rabea1</h1>
+<h1 align="center">Hi 👋, I'm Rabae1</h1>
 
 <p align="center">
 💻 Web Developer | 🎨 UI/UX Designer | 🎮 Game Developer  
@@ -31,9 +31,9 @@ Passionate about building interactive websites and games with modern technologie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabea1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabae1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabea1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabae1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
