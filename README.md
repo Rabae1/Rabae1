@@ -9,7 +9,7 @@ Passionate about building interactive websites and games with modern technologie
 
 ## 🧠 About Me
 
-- 🌐 I develop websites using HTML, CSS, and JavaScript  
+- 🌐 I develop websites using HTML, CSS, and JavaScript  .
 - 🎮 I build games using Unity and C#  
 - 🐍 I write scripts and automate tasks with Python  
 - 🚀 I’m always learning and exploring new tech  
