@@ -13,7 +13,7 @@ Passionate about building interactive websites and games with modern technologie
 - 🎮 I build games using Unity and C#  
 - 🐍 I write scripts and automate tasks with Python  
 - 🚀 I’m always learning and exploring new tech  
-- 📫 Reach me at: [your-email@gmail.com]
+- 📫 Reach me at: [tostt12x@gmail.com]
 
 ---
 
